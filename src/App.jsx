@@ -16,7 +16,7 @@ const schemaMarkup = {
   "@type": "LocalBusiness",
   "name": "LipBlush Delhi - Premium Lip Blushing Service",
   "description": "Premium Korean lip blushing service in Delhi. Get natural, long-lasting lip color with our expert permanent makeup artists.",
-  "image": "https://lipblush-delhi.vercel.app/og-image.jpg",
+  "image": "https://lipblush-delhi.vercel.app/og-image.png",
   "url": "https://lipblush-delhi.vercel.app",
   "telephone": "+91-9000012345",
   "email": "hello@lipblush.in",
@@ -28,7 +28,7 @@ const schemaMarkup = {
     "postalCode": "110001",
     "addressCountry": "IN"
   },
-  "priceRange": "₹₹₹",
+  "priceRange": "₹15,000 - 1,00,000",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
